@@ -1,0 +1,15 @@
+div a{
+  background-color: purple;
+  width: 150px;
+  padding:20px;
+  margin:20px;
+
+}
+ol > li{
+  background-color:A82F50;
+  color:F8EDF0;
+}
+li + li{
+  background-color:A42F4F;
+  color:F8EDF0;
+}
