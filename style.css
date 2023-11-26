@@ -1,5 +1,6 @@
 div a {
-  background-color:#DDB8FF;
+  border-color:#5F2875;
+  border-style:dashed;
   width:50px;
   padding:20px;
   margin:20px;
