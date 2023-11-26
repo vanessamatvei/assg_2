@@ -2,19 +2,16 @@ div a {
   border-color:#5F2875;
   border-style:dashed;
   width:50px;
-  padding:20px;
-  margin:20px;
+  padding:10px;
+  margin:15px;
 }
 
-ol > li {
-  background-color:#DDB8FF;
-  color:#F8EDF0;
+ol > li, li + li {
+  background-color:#F7CE5F;
+  color:#DED2BC;
 }
-li + li {
-  background-color:#A42F4F;
-  color:#F8EDF0;
-}
-h1 {
+h1, h2 {
   background-color:#FEF695;
   color:#284A75;
+  align: center;
 }
